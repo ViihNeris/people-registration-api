@@ -1,4 +1,4 @@
-# PeopleRegistrationAPI 🌐
+# people-registration-api 🌐
 Uma web API com as operações consultar, inserir, alterar e excluir em um cadastro de usuários #️⃣
 <br><br>
 
